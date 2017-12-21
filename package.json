@@ -1,0 +1,25 @@
+{
+  "name": "com.test.echo",
+  "version": "0.0.1",
+  "description": "echo",
+  "cordova": {
+    "id": "com.test.echo",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seoyoonk/echo.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "syk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seoyoonk/echo/issues"
+  },
+  "homepage": "https://github.com/seoyoonk/echo#readme"
+}
