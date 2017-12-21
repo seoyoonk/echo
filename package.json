@@ -1,9 +1,9 @@
 {
-  "name": "com.test.echo",
+  "name": "echo",
   "version": "0.0.1",
   "description": "echo",
   "cordova": {
-    "id": "com.test.echo",
+    "id": "echo",
     "platforms": [
       "android"
     ]
